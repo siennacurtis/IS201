@@ -1,0 +1,40 @@
+
+.navigation{
+    height:50px;
+    background-color: lightgrey;
+    line-height: 50px;
+    color:white;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    height:100px;
+    background-color: darkslategrey;
+    line-height: 100px;
+    color:white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer{
+    height:50px;
+    background-color: black;
+    color: white;
+    line-height: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width:25%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.common{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
